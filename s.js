@@ -3,6 +3,23 @@
     {
       "trigger": "!",
       "suggestions": [
+        "!woot",
+        { "string": "!eta", "icon": "icon-current-dj-white" },
+        { "string": "!ban", "icon": "icon-ban", "role": 3 }
+      ]
+    },
+    {
+      "trigger": "%",
+      "suggestions": [ "%shrug", "%lol", "%tableflip" ]
+    }
+  ]
+}
+/*
+{
+  "autocomplete": [
+    {
+      "trigger": "!",
+      "suggestions": [
         { "string": "afklimit",         "icon": "icon-chat-manager", "role": 3 },
         { "string": "botname",          "icon": "icon-chat-manager", "role": 3 },
         { "string": "clearchat",        "icon": "icon-chat-manager", "role": 3 },
@@ -99,3 +116,4 @@
     }
   ]
 }
+*/
