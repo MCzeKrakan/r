@@ -16,7 +16,7 @@
         { "string": "usercmdcd",        "icon": "icon-chat-manager", "role": 3 },
         { "string": "usercommands",     "icon": "icon-chat-manager", "role": 3 },
         { "string": "voteskip",         "icon": "icon-chat-manager", "role": 3 },
-  
+
         { "string": "add",          "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "afkremoval",   "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "autoskip",     "icon": "icon-chat-bouncer", "role": 2 },
@@ -33,7 +33,7 @@
         { "string": "swap",         "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "unlock",       "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "welcome",      "icon": "icon-chat-bouncer", "role": 2 },
-  
+
         { "string": "active",         "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "afkreset",       "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "afktime",        "icon": "icon-chat-bouncer", "role": 2 },
@@ -70,9 +70,9 @@
         { "string": "unmute",         "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "voteratio",      "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "whois",          "icon": "icon-chat-bouncer", "role": 2 },
-        
-        { "string": "link",       "icon": "icon-chat-dj" },
-  
+
+        { "string": "link",       "icon": "icon-chat-dj", "role": 1 },
+
         { "string": "8ball",        "icon": "icon-community-users" },
         { "string": "autowoot",     "icon": "icon-community-users" },
         { "string": "source",       "icon": "icon-community-users" },
