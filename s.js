@@ -22,6 +22,7 @@
         { "string": "autoskip",     "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "bouncer+",     "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "cmddel",       "icon": "icon-chat-bouncer", "role": 2 },
+        { "string": "deletechat",   "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "historyskip",  "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "lock",         "icon": "icon-chat-bouncer", "role": 2 },
         { "string": "lockdown",     "icon": "icon-chat-bouncer", "role": 2 },
