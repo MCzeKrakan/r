@@ -6,6 +6,6 @@
     !cycletimer,
     afklimit,
     "string": "logout",
-    "string": "usercmdcd", 
+    "string": "usercmdcd"
   ]
 }
