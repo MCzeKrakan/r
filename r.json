@@ -1,6 +1,9 @@
 {
   "autocomplete": [
-    "string": "logout",
-    "string": "usercmdcd"
+    afklimit,
+    botname,
+    afklimit,
+    !cycletimer,
+    afklimit
   ]
 }
