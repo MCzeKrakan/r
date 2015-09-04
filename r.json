@@ -1,9 +1,9 @@
 {
   "autocomplete": [
-    afklimit,
-    botname,
-    afklimit,
-    !cycletimer,
-    afklimit
+    "afklimit",
+    "botname",
+    "afklimit",
+    "!cycletimer",
+    "afklimit"
   ]
 }
