@@ -8,3 +8,4 @@
     "string": "logout",
     "string": "usercmdcd", 
   ]
+}
